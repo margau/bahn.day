@@ -1,0 +1,52 @@
+DefaultContentLanguage = "de"
+languageCode = "de-de"
+title = "bahn.day"
+theme = "lightbi-hugo"
+enableGitInfo = true
+preserveTaxonomyNames = true
+
+[Params]
+selfHosted = true
+mainSections = ["destination"]
+disableDate = true
+footer = 'Content: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0 (unless noted)</a>'
+srcsetWidth = ["200", "400", "800", "1200", "1600", "2000", "2400", "2800", "3200"]
+commit = "https://github.com/margau/bahn.day/commit/"
+
+[taxonomies]
+tag = "tags"
+reachability = "reachabilities"
+location = "locations"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Tipps nach Erreichbarkeit"
+    url = "/reachabilities"
+    weight = 2
+
+[[menu.main]]
+    name = "Tipps nach Ort"
+    url = "/locations"
+    weight = 3
+
+#[[menu.main]]
+#    name = "Über"
+#    url = "/about/"
+#    weight = 5
+
+[[menu.main]]
+    name = "Impressum"
+    url = "https://margau.net/impressum/"
+    weight = 6
+
+[[menu.main]]
+    name = "Datenschutz"
+    url = "https://margau.net/datenschutz/"
+    weight = 7
+
+[[deployment.targets]]
+    URL = "s3://bahn.day?endpoint=s3.margau.net&s3ForcePathStyle=true&region=garage"
