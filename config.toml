@@ -25,12 +25,12 @@ location = "locations"
 
 [[menu.main]]
     name = "Tipps nach Erreichbarkeit"
-    url = "/reachabilities"
+    url = "/reachabilities/"
     weight = 2
 
 [[menu.main]]
     name = "Tipps nach Ort"
-    url = "/locations"
+    url = "/locations/"
     weight = 3
 
 #[[menu.main]]
