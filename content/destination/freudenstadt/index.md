@@ -17,7 +17,8 @@ attribution: '[CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) mar
 description: "Die Stadt am Ende des Murgtals"
 ---
 
-### Infos auf einen Blick:
+### Informationen auf einen Blick
+
 - 🌦️: Wolkenbruch vermeiden
 - 💶: Gratis
 - 🚉: "Freudenstadt Stadt", S8/RE40
@@ -25,7 +26,10 @@ description: "Die Stadt am Ende des Murgtals"
 - ⏳: ~1-2h
 
 ### Details
-Nach einer Aussichtsreichen Fahrt durch das Murgtal bietet sich eine Runde durch die Altstadt über den ungewöhnlich großen, und weitgehend schön gestalten Marktplatz an.
+
+Nach einer Aussichtsreichen Fahrt durch das Murgtal bietet sich eine Runde durch die Altstadt über den ungewöhnlich großen,
+und weitgehend schön gestalten Marktplatz an.
 
 ### Anreise
+
 Im Rahmen einer Schwarzwaldtour am besten über das Murgtal ab Karlsruhe Hbf/Karlsruhe Tullastraße bis "Freudenstadt Stadt". Alternativ von Stuttgart mit dem RE14b, oder aus Hausach/Offenburg mit der SWEG RB20 zur etwas abgelegeneren Haltestelle "Freudenstadt Hbf".

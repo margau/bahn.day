@@ -26,7 +26,8 @@ attribution: "[CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) Aut
 
 Das ist die Beschreibung und der Vorschautext für diese Reiseempfehlung!
 
-### Infos auf einen Blick:
+### Informationen auf einen Blick
+
 - 🌦️: Alle Wetterlagen
 - 💶: Gratis
 - 🚉: Haltestelle X, Linie Y, Takt Z
@@ -34,9 +35,11 @@ Das ist die Beschreibung und der Vorschautext für diese Reiseempfehlung!
 - ⏳: 0,1-2h
 
 ### Details
+
 Dies ist ein schöner Ort, weil
 
 ### Anreise
 
 ### Bilder
+
 ggf. mehr Bilder
