@@ -12,6 +12,8 @@ locations:
 - Schwarzwald # Region/Naturraum, falls sinnvoll
 author: margau
 imageResource: "img/freudenstadt.jpg"
+attributionPlain: CC-BY-SA 4.0 margau
+attribution: '[CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) margau'
 description: "Die Stadt am Ende des Murgtals"
 ---
 

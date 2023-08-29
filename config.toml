@@ -12,6 +12,7 @@ disableDate = true
 footer = 'Content: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0 (unless noted)</a>'
 srcsetWidth = ["200", "400", "800", "1200", "1600", "2000", "2400", "2800", "3200"]
 commit = "https://github.com/margau/bahn.day/commit/"
+showRelatedPosts = true
 
 [taxonomies]
 tag = "tags"
