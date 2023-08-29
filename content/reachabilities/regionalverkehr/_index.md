@@ -1,4 +1,9 @@
+---
+draft: True
+---
+
 ### Erreichbar mit dem Regionalverkehr
+
 *Zuggattung: RE, RB, IRE, ..*
 
 | Ticket | Gültigkeit |
